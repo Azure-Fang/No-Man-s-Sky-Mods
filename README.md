@@ -17,3 +17,5 @@ All mods I create are based on the experimental branch. However, I generally onl
 All mod updates are dictated by updates to MBINCompiler and experimental patch swarms. In general, I update anywhere between a week and a month after the release of a major patch.
 ## Why not release on Nexus?
 Because Nexus stripped mod authors of their rights and I will never support their business (yes, they are a business as much as they'd like you to believe otherwise) again.
+## Why no AMUMSS scripts?
+Because I'm Lua illiterate. Sorry.
