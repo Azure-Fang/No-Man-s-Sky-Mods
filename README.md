@@ -1,4 +1,4 @@
-# No-Man-s-Sky-Mods
+# No Man's Sky Mods
 By "popular" request, I will upload mods that I create to this repository. Updates will be sporatic and will continue until either I lose interest in No Man's Sky (not likely) or Hello Games stops releasing updates (also, seemingly unlikely).
 
 ## No Ladder Latch (4.12 - Steam Build 10661718)
@@ -8,12 +8,14 @@ Disables latching behavior on ladders of all kinds, requiring the player to hold
 Disables the "auto carve" behavior of base parts while building a base; placing base parts will allow them to clip into terrain rather than automatically editing the terrain, preventing unwanted edit creep and future automatic fill-in.
 
 ## Freighter Buildable Tech and NTE (4.12 - Steam Build 10661718)
-By request, this mod reactivates a number of legacy freighter tech (such as hydroponics trays, medium refiners, etc.) and merges it with No Terrain Edits. SNAPPING IS NOT WORKING; I have not figured out yet how to re-enable snapping legacy tech like hydroponics trays or the Galactic Trade Terminal to legacy rooms, but they otherwise work.
+By request, this mod reactivates a number of legacy freighter tech (such as hydroponics trays, medium refiners, etc.) as well as the Expedition 9 consoles (if you have them) on freighters and merges it with No Terrain Edits. SNAPPING IS NOT WORKING; I have not figured out yet how to re-enable snapping legacy tech like hydroponics trays or the Galactic Trade Terminal to legacy rooms, but they otherwise work.
+
 
 # Deprecated Mods
 
 ## MP Freighter
 Hello Games has made it so that multiple player freighters can exist in a single system, but you can only see and interact with another freighter if you dismiss your on. Consequently, an option to dismiss your frieghter has been added. This is a fair compromise to prevent multiplayer refiner issues, so I will no longer maintain or distribute this mod.
+
 
 # Pre-emptive FAQ
 ## What branch are you based on?
