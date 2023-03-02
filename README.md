@@ -8,7 +8,7 @@ Disables latching behavior on ladders of all kinds, requiring the player to hold
 Disables the "auto carve" behavior of base parts while building a base; placing base parts will allow them to clip into terrain rather than automatically editing the terrain, preventing unwanted edit creep and future automatic fill-in.
 
 ## Freighter Buildable Tech and NTE (4.12 - Steam Build 10661718)
-By request, this mod reactivates a number of legacy freighter tech (such as hydroponics trays, medium refiners, etc.) and merges it with No Terrain Edits. SNAPPING IS NOT WORKING; I have not figured out yet how to re-enable snapping legacy tech like hydroponics trays or the Galactic Trade Terminal to legacy rooms, but they otherwise work.
+By request, this mod reactivates a number of legacy freighter tech (such as hydroponics trays, medium refiners, etc.) as well as the Espedition 9 consoles (if you have them) on freighters and merges it with No Terrain Edits. SNAPPING IS NOT WORKING; I have not figured out yet how to re-enable snapping legacy tech like hydroponics trays or the Galactic Trade Terminal to legacy rooms, but they otherwise work.
 
 # Deprecated Mods
 
