@@ -11,7 +11,11 @@ Disables the "auto carve" behavior of base parts while building a base; placing 
 By request, this mod reactivates a number of legacy freighter tech (such as hydroponics trays, medium refiners, etc.) as well as the Expedition 9 consoles (if you have them) on freighters and merges it with No Terrain Edits. SNAPPING IS NOT WORKING; I have not figured out yet how to re-enable snapping legacy tech like hydroponics trays or the Galactic Trade Terminal to legacy rooms, but they otherwise work.
 
 ## Anti-Profanity Filter (4.13 - Steam Build 10712241)
-There is a boolean switch inside the XML that controls the filter. It is fully hooked up, but not assigned to a menu option. This simply flits that switch, disaling the filter. 
+There is a boolean switch inside the XML that controls the filter. It is fully hooked up, but not assigned to a menu option. This simply flits that switch, disaling the filter.
+
+## Dirt to Silicate (4.13 Experimental - Steam Build 10741238)
+This mod adds a simple refiner recipe that converts the trade good "Dirt" into Silicate Powder at a ratio of 1:250. This ratio was selected based on comparative value and is in line with other Product-to-Material recipes (such as Aronium>Silver).
+This mod is only localized to English! It will still work in other languages, but will display "RECIPE_AZURE_DIRT" instead of a localized name. The localized recipe is called "Requested Operation: Silicate Refinement": if anybody wishes to have it localized into their native language, provide me with a translation and I will update accordingly.
 
 # Deprecated Mods
 
