@@ -18,7 +18,7 @@ This mod adds a simple refiner recipe that converts the trade good "Dirt" into S
 This mod is only localized to English! It will still work in other languages, but will display "RECIPE_AZURE_DIRT" instead of a localized name. The localized recipe is called "Requested Operation: Silicate Refinement": if anybody wishes to have it localized into their native language, provide me with a translation and I will update accordingly.
 
 ## Legacy Research (4.13 Experimental - Steam Build 10741238)
-Restores the ability to research the legacy Wooden, Metal, and Concrete base parts that were deprecated as of Frontiers. This includes the "bugged" Large Power Doors in the Wood and Concrete categories, as this is the state they were in when they were deprecated; if this becomes an issue, I'll remove them.
+Restores the ability to research the legacy Wooden, Metal, and Concrete base parts that were deprecated as of Frontiers. Costs are as they were last seen when they were dummied out of the game.
 
 # Deprecated Mods
 
