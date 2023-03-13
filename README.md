@@ -23,7 +23,7 @@ Restores the ability to research the legacy Wooden, Metal, and Concrete base par
 # Deprecated Mods
 
 ## MP Freighter
-Hello Games has made it so that multiple player freighters can exist in a single system, but you can only see and interact with another freighter if you dismiss your on. Consequently, an option to dismiss your frieghter has been added. This is a fair compromise to prevent multiplayer refiner issues, so I will no longer maintain or distribute this mod.
+Hello Games has made it so that multiple player freighters can exist in a single system, but you can only see and interact with another freighter if you dismiss your own. Consequently, an option to dismiss your frieghter has been added. This is a fair compromise to prevent multiplayer refiner issues, so I will no longer maintain or distribute this mod.
 
 
 # Pre-emptive FAQ
