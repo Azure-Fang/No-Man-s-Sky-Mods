@@ -26,6 +26,8 @@ Adds a recipe, researchable at the Anomaly after researching Atlas Pass v2, to c
 * Tainted Metal x250
 * Counterfeit Circuits x1
 
+There is a cosmetic bug with the tree view when crafting this recipe: the three materials overlap, but are still interactible. As I am unable to isolate the cause, and the mod is still fully functional, I am releasing it as is until I can figure out how to pad tree cells.
+
 ## Legacy Research and Anomaly Detector
 As I am still unable to comprehend AMUMSS scripts, even with Jaggid Edje's assistance, this merges Legacy Research and Anomaly Detector Recipe.
 
