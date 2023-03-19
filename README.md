@@ -1,27 +1,36 @@
 # No Man's Sky Mods
-By "popular" request, I will upload mods that I create to this repository. Updates will be sporatic and will continue until either I lose interest in No Man's Sky (not likely) or Hello Games stops releasing updates (also, seemingly unlikely).
+By "popular" request, I will upload mods that I create to this repository. Updates will be sporatic and will continue until either I lose interest in No Man's Sky (read as: when I'm dead) or Hello Games stops releasing updates (also, seemingly unlikely).
 
-## No Ladder Latch (4.12 - Steam Build 10661718) - Valid for 4.13
+## No Ladder Latch (4.12 - Steam Build 10661718) - Valid for 4.15
 Disables latching behavior on ladders of all kinds, requiring the player to hold the interact button to start climbing a ladder.
 
-## No Terrain Edits (4.13 - Steam Build 10712241)
+## No Terrain Edits (4.13 - Steam Build 10712241) - Valid for 4.15
 Disables the "auto carve" behavior of base parts while building a base; placing base parts will allow them to clip into terrain rather than automatically editing the terrain, preventing unwanted edit creep and future automatic fill-in.
 
-## Freighter Buildable Tech and NTE (4.13 - Steam Build 10712241)
+## Freighter Buildable Tech and NTE (4.13 - Steam Build 10712241) - Valid for 4.15
 By request, this mod reactivates a number of legacy freighter tech (such as hydroponics trays, medium refiners, etc.) as well as the Expedition 9 consoles (if you have them) on freighters and merges it with No Terrain Edits. SNAPPING IS NOT WORKING; I have not figured out yet how to re-enable snapping legacy tech like hydroponics trays or the Galactic Trade Terminal to legacy rooms, but they otherwise work.
 
-## Anti-Profanity Filter (4.13 - Steam Build 10712241)
+## Anti-Profanity Filter (4.13 - Steam Build 10712241) - Valid for 4.15
 There is a boolean switch inside the XML that controls the filter. It is fully hooked up, but not assigned to a menu option. This simply flits that switch, disaling the filter.
 
-## Dirt to Silicate (4.13 Experimental - Steam Build 10741238)
+## Dirt to Silicate (4.13 Experimental - Steam Build 10741238) - Valid for 4.15
 This mod adds a simple refiner recipe that converts the trade good "Dirt" into Silicate Powder at a ratio of 1:250. This ratio was selected based on comparative value and is in line with other Product-to-Material recipes (such as Aronium>Silver).
 This mod is only localized to English! It will still work in other languages, but will display "RECIPE_AZURE_DIRT" instead of a localized name. The localized recipe is called "Requested Operation: Silicate Refinement": if anybody wishes to have it localized into their native language, provide me with a translation and I will update accordingly.
 
-## Legacy Research (4.13 Experimental - Steam Build 10741238)
+## Legacy Research (4.13 Experimental - Steam Build 10741238) - Valid for 4.15
 Restores the ability to research the legacy Wooden, Metal, and Concrete base parts that were deprecated as of Frontiers. Costs are as they were last seen when they were dummied out of the game.
 
-# Deprecated Mods
+## Anomaly Detector Recipe (4.13 Experimental - Steam Build 10741238) - Valid for 4.15
+Adds a recipe, researchable at the Anomaly after researching Atlas Pass v2, to craft Anomaly Detectors. Requires the following materials:
+* Walker Brain x1
+* Tainted Metal x250
+* Counterfeit Circuits x1
 
+## Legacy Research and Anomaly Detector
+As I am still unable to comprehend AMUMSS scripts, even with Jaggid Edje's assistance, this merges Legacy Research and Anomaly Detector Recipe.
+
+
+# Deprecated Mods
 ## MP Freighter
 Hello Games has made it so that multiple player freighters can exist in a single system, but you can only see and interact with another freighter if you dismiss your own. Consequently, an option to dismiss your frieghter has been added. This is a fair compromise to prevent multiplayer refiner issues, so I will no longer maintain or distribute this mod.
 
