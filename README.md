@@ -9,13 +9,13 @@ Disables latching behavior on ladders of all kinds, requiring the player to hold
 ## No Terrain Edits (4.13 - Steam Build 10712241) - Valid for 4.15
 Disables the "auto carve" behavior of base parts while building a base; placing base parts will allow them to clip into terrain rather than automatically editing the terrain, preventing unwanted edit creep and future automatic fill-in.
 
-> METADATA\REALITY\TABLES\BASEBUILDINGOBJECTSTABLE.MBIN
+> METADATA\REALITY\TABLES\BASEBUILDINGOBJECTSTABLE.MBIN  
 > METADATA\REALITY\TABLES\LEGACYBASEBUILDINGTABLE.MBIN
 
 ## Freighter Buildable Tech and NTE (4.13 - Steam Build 10712241) - Valid for 4.15
 By request, this mod reactivates a number of legacy freighter tech (such as hydroponics trays, medium refiners, etc.) as well as the Expedition 9 consoles (if you have them) on freighters and merges it with No Terrain Edits. SNAPPING IS NOT WORKING; I have not figured out yet how to re-enable snapping legacy tech like hydroponics trays or the Galactic Trade Terminal to legacy rooms, but they otherwise work.
 
-> METADATA\REALITY\TABLES\BASEBUILDINGOBJECTSTABLE.MBIN
+> METADATA\REALITY\TABLES\BASEBUILDINGOBJECTSTABLE.MBIN  
 > METADATA\REALITY\TABLES\LEGACYBASEBUILDINGTABLE.MBIN
 
 ## Anti-Profanity Filter (4.13 - Steam Build 10712241) - Valid for 4.15
@@ -28,10 +28,10 @@ This mod adds a simple refiner recipe that converts the trade good "Dirt" into S
 
 This mod is only localized to English (US) and English (UK)! It will still work in other languages, but will display "RECIPE_AZURE_DIRT" instead of a localized name. The localized recipe is called "Requested Operation: Silicate Refinement": if anybody wishes to have it localized into their native language, provide me with a translation and I will update accordingly.
 
-> LANGUAGE\NMS_LOC4_ENGLISH.MBIN
-> LANGUAGE\NMS_LOC4_USENGLISH.MBIN
-> LANGUAGE\NMS_LOC7_ENGLISH.MBIN
-> LANGUAGE\NMS_LOC7_USENGLISH.MBIN
+> LANGUAGE\NMS_LOC4_ENGLISH.MBIN  
+> LANGUAGE\NMS_LOC4_USENGLISH.MBIN  
+> LANGUAGE\NMS_LOC7_ENGLISH.MBIN  
+> LANGUAGE\NMS_LOC7_USENGLISH.MBIN  
 > METADATA\REALITY\TABLES\NMS_REALITY_GCRECIPETABLE.MBIN
 
 ## Legacy Research (4.13 Experimental - Steam Build 10741238) - Valid for 4.15
@@ -47,13 +47,13 @@ Adds a recipe, researchable at the Anomaly after researching Atlas Pass v2, to c
 
 There is a cosmetic bug with the tree view when crafting this recipe: the three materials overlap, but are still interactible. As I am unable to isolate the cause, and the mod is still fully functional, I am releasing it as is until I can figure out how to pad tree cells.
 
-> METADATA\REALITY\TABLES\NMS_REALITY_GCPRODUCTTABLE.MBIN
+> METADATA\REALITY\TABLES\NMS_REALITY_GCPRODUCTTABLE.MBIN  
 > METADATA\REALITY\TABLES\UNLOCKABLEITEMTREES.MBIN
 
 ## Legacy Research and Anomaly Detector
 As I am still unable to comprehend AMUMSS scripts, even with Jaggid Edje's assistance, this merges Legacy Research and Anomaly Detector Recipe.
 
-> METADATA\REALITY\TABLES\NMS_REALITY_GCPRODUCTTABLE.MBIN
+> METADATA\REALITY\TABLES\NMS_REALITY_GCPRODUCTTABLE.MBIN  
 > METADATA\REALITY\TABLES\UNLOCKABLEITEMTREES.MBIN
 
 
