@@ -1,12 +1,12 @@
 # No Man's Sky Mods
 By "popular" request, I will upload mods that I create to this repository. Updates will be sporatic and will continue until either I lose interest in No Man's Sky (read as: when I'm dead) or Hello Games stops releasing updates (also, seemingly unlikely).
 
-## No Ladder Latch (4.45 - Steam Build 12190816)
+## No Ladder Latch (4.46)
 Disables latching behavior on ladders of all kinds, requiring the player to hold the interact button to start climbing a ladder.
 
 > GCCHARACTERGLOBALS.GLOBAL.MBIN
 
-## No Terrain Edits (4.45 - Steam Build 12190816)
+## No Terrain Edits (4.46)
 Disables the "auto carve" behavior of base parts while building a base; placing base parts will allow them to clip into terrain rather than automatically editing the terrain, preventing unwanted edit creep and future automatic fill-in.
 
 > METADATA\REALITY\TABLES\BASEBUILDINGOBJECTSTABLE.MBIN  
@@ -18,7 +18,7 @@ By request, this mod reactivates a number of legacy freighter tech (such as hydr
 > METADATA\REALITY\TABLES\BASEBUILDINGOBJECTSTABLE.MBIN  
 > METADATA\REALITY\TABLES\LEGACYBASEBUILDINGTABLE.MBIN
 
-## Anti-Profanity Filter (4.45 - Steam Build 12190816)
+## Anti-Profanity Filter (4.46)
 There is a boolean switch inside the XML that controls the filter. It is fully hooked up, but not assigned to a menu option. This simply flits that switch, disaling the filter.
 
 > GCDEBUGOPTIONS.GLOBAL.MBIN
@@ -34,7 +34,7 @@ This mod is only localized to English (US) and English (UK)! It will still work 
 > LANGUAGE\NMS_LOC7_USENGLISH.MBIN  
 > METADATA\REALITY\TABLES\NMS_REALITY_GCRECIPETABLE.MBIN
 
-## Legacy Research (4.45 - Steam Build 12190816)
+## Legacy Research (4.46)
 Restores the ability to research the legacy Wooden, Metal, and Concrete base parts that were deprecated as of Frontiers. Costs are as they were last seen when they were dummied out of the game.
 
 > METADATA\REALITY\TABLES\UNLOCKABLEITEMTREES.MBIN
