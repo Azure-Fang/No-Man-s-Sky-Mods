@@ -39,7 +39,7 @@ Restores the ability to research the legacy Wooden, Metal, and Concrete base par
 
 > METADATA\REALITY\TABLES\UNLOCKABLEITEMTREES.MBIN
 
-## Anomaly Detector Recipe (4.45 - Steam Build 12190816)
+## Anomaly Detector Recipe (4.46)
 Adds a recipe, researchable at the Anomaly after researching Atlas Pass v2, to craft Anomaly Detectors. Requires the following materials:
 * Walker Brain x1
 * Tainted Metal x250
@@ -50,7 +50,7 @@ There is a cosmetic bug with the tree view when crafting this recipe: the three 
 > METADATA\REALITY\TABLES\NMS_REALITY_GCPRODUCTTABLE.MBIN  
 > METADATA\REALITY\TABLES\UNLOCKABLEITEMTREES.MBIN
 
-## Legacy Research and Anomaly Detector (4.45 - Steam Build 12190816)
+## Legacy Research and Anomaly Detector (4.46)
 As I am still unable to comprehend AMUMSS scripts, even with Jaggid Edje's assistance, this merges Legacy Research and Anomaly Detector Recipe.
 
 > METADATA\REALITY\TABLES\NMS_REALITY_GCPRODUCTTABLE.MBIN  
