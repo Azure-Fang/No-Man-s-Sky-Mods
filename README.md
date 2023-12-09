@@ -34,7 +34,7 @@ This mod is only localized to English (US) and English (UK)! It will still work 
 > LANGUAGE\NMS_LOC7_USENGLISH.MBIN  
 > METADATA\REALITY\TABLES\NMS_REALITY_GCRECIPETABLE.MBIN
 
-## Legacy Research (4.45 - Steam Build 12190816)
+## Legacy Research (4.46)
 Restores the ability to research the legacy Wooden, Metal, and Concrete base parts that were deprecated as of Frontiers. Costs are as they were last seen when they were dummied out of the game.
 
 > METADATA\REALITY\TABLES\UNLOCKABLEITEMTREES.MBIN
