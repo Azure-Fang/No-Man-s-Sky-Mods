@@ -1,3 +1,6 @@
+# 02/28/2024 NOTICE: Most updtes are on hold until the next major update!
+Due to a number of bugs, especially affecting the localization files, I am pausing most updates until the next major update in hopes these will be worked out.
+
 # No Man's Sky Mods
 By "popular" request, I will upload mods that I create to this repository. Updates will be sporatic and will continue until either I lose interest in No Man's Sky (read as: when I'm dead) or Hello Games stops releasing updates (also, seemingly unlikely).
 
